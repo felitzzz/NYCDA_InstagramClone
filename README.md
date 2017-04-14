@@ -17,7 +17,7 @@ April 25 Tuesday
 - Supporting Followers
 - Supporting Feeds               
 
-###routes
+### Routes
 "/"goes to dashboard+login
 /user goes to user page
 /register goes to sign up page
