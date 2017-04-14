@@ -18,7 +18,7 @@ April 25 Tuesday
 - Supporting Feeds               
 
 ### Routes
-"/"goes to dashboard+login
-/user goes to user page
-/register goes to sign up page
-/logout back to login
+- "/"goes to dashboard+login
+- "/user" goes to user page
+- "/register" goes to sign up page
+- "/logout" back to login
