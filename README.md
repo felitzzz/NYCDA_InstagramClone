@@ -16,4 +16,9 @@ April 25 Tuesday
 ### By Friday 4/21 
 - Supporting Followers
 - Supporting Feeds               
-               
+
+###routes
+"/"goes to dashboard+login
+/user goes to user page
+/register goes to sign up page
+/logout back to login
